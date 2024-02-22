@@ -2,7 +2,7 @@
 
 - 🧑‍🎓 Final year UG in Department of <b>Computer Science</b><br>
 - 👀 I’m interested in <b>Back-end Development and Cloud</b>
-- 📚 I’m currently learning on <b>Git and Kubernetes</b>
+- 📚 I’m currently learning on <b>Git and selenium</b>
 - 👨 Pronoun: He/his.
 
 ## Technical Skills
