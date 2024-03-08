@@ -28,5 +28,9 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sairam-kothapalli)
-- [Email](mailto:balanaga2525@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-balanaga2525@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:balanaga2525@gmail.com)](mailto:balanaga2525@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-sairam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/sairam-kothapalli/)](https:https://www.linkedin.com/in/sairam-kothapalli/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https:https://github.com/S4iR4m)](https:https://github.com/S4iR4m)
+</br>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
