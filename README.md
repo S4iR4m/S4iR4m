@@ -1,7 +1,7 @@
 # Hi, I'm <b>Bala Naga Sairam</b>! 👋
 
 - 🧑‍🎓 Final year UG in Department of <b>Computer Science</b><br>
-- 👀 I’m interested in <b>Back-end Development and Cloud</b>
+- 👀 I’m interested in <b>Data Science and Analysis Field</b>
 - 📚 I’m currently enhancing my Skills on <b>Core Java and Python</b>
 - 👨 Pronoun: He/his.
 
