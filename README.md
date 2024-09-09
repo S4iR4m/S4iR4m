@@ -1,8 +1,8 @@
 # Hi, I'm <b>Bala Naga Sairam</b>! 👋
 
-- 🧑‍🎓 Final year UG in Department of <b>Computer Science</b><br>
+- 🧑‍🎓 B.Tech Graduate in  <b>Electronics and Computers Engineering Stream</b><br>
 - 👀 I’m interested in <b>Data Science and Analysis Field</b>
-- 📚 I’m currently enhancing my Skills on <b>Core Java and Python</b>
+- 📚 I’m currently enhancing my Skills on <b>Python and C++</b>
 - 👨 Pronoun: He/his.
 
 ## Technical Skills
