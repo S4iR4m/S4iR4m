@@ -1,7 +1,7 @@
 # Hi, I'm <b>Bala Naga Sairam</b>! 👋
 
 - 🧑‍🎓 B.Tech Graduate in  <b>Electronics and Computers Engineering Stream</b><br>
-- 👀 I’m interested in <b>Generative Ai and AWS Cloud</b>
+- 👀 I’m interested in <b>Generative Ai and AWS Cloud + DevOps</b>
 - 📚 I’m currently enhancing my Skills on <b>Generative Ai Algorithms and Cloud</b>
 - 👨 Pronoun: He/his.
 
