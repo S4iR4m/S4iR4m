@@ -1,6 +1,6 @@
 # Hi, I'm <b>Bala Naga Sairam</b>! 👋
 # 💫 About Me:
-🧑‍🎓 B.Tech Graduate in Electronics and Computers Engineering Stream<br>👀 I’m interested in  AWS Cloud + DevOps<br>📚 I’m currently enhancing my Skills in DevOps Tools and AWS Cloud<br>👨 Pronoun: He/his.
+🧑‍🎓 B.Tech Graduated in Electronics and Computers Engineering Stream<br>👀 I’m interested in  AWS Cloud + DevOps<br>📚 I’m currently enhancing my Skills in DevOps Tools and AWS Cloud<br>👨 Pronoun: He/his.
 
 
 ## 🌐 Socials:
